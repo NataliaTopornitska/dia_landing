@@ -51,7 +51,7 @@ To run this project locally, follow these steps:
 - Clone the Repository:
 
 ```
-git clone 
+git clone https://github.com/NataliaTopornitska/dia_landing
 cd dia_landing
 ```
 

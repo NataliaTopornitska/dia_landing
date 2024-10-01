@@ -6,7 +6,7 @@ This project is a landing page designed according to a [Figma design](https://ww
 
 ## Demo
 
-You can see the landing page live at the following link: [DEMO LINK]()
+You can see the landing page live at the following link: [DEMO LINK](https://nataliatopornitska.github.io/dia_landing/)
 
 ## Technologies Used
 

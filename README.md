@@ -1,12 +1,12 @@
 # Dia landing page
 
+## Demo
+
 You can see the landing page live at the following link: [DEMO LINK](https://nataliatopornitska.github.io/dia_landing/)
 
 This project is a landing page designed according to a [Figma design](https://www.figma.com/design/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia))
 
 - It uses BEM and SCSS for structured and modular CSS.
-
-## Demo
 
 ## Technologies Used
 
